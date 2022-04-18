@@ -1,0 +1,30 @@
+ Window Manager: i3 
+Taskbar: Polybar
+System Info Ascii art info: screenfetch of neofetch
+Application Launcher: dmenu
+Wallpaper: feh
+Clipboard Manager: xsel
+Terminal: urxvt3
+Music Player: Musikcube en cmus
+file managers installed: fff and ranger
+visual file managers: thunar
+
+peek: screen recorder in gifs 
+
+
+
+
+
+
+
+display:
+xrandr
+laptop display is LVDS1 hdmi is HDMI1
+
+
+
+i3 config file location:
+`~/.config/i3/config`
+
+.Xdefault location (gebruikt door terminal)
+$HOME/.Xdefaults

@@ -1,0 +1,48 @@
+
+! special
+*.foreground:   #b8d0b8
+*.background:   #0d100d
+*.cursorColor:  #00ff04
+
+! black
+*.color0:       #161b16
+*.color8:       #f23aef
+
+! red
+*.color1:       #1e241f
+*.color9:       #ae9746
+
+! green
+*.color2:       #2e352e
+*.color10:      #54a458
+
+! yellow
+*.color3:       #434d44
+*.color11:      #ea72e7
+
+! blue
+*.color4:       #5e6b5f
+*.color12:      #61c267
+
+! magenta
+*.color5:       #7e907f
+*.color13:      #5ea7a5
+
+! cyan
+*.color6:       #a4baa5
+*.color14:      #55d3d0
+
+! white
+*.color7:       #d4e8d4
+*.color15:      #5bc061
+
+
+
+urxvt*transparent: true
+urxvt*shading: 10
+
+URxvt.scrollBar: false
+URxvt.font: xft:SourceCodeVariable:size=14
+URxvt.perl-ext-common:  ...,resize-font,...
+
+
